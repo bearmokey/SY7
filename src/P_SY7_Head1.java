@@ -3,7 +3,7 @@ package fywzqx.inst.sy7;
 import java.io.Serializable;
 
 /*
- * 头文件1
+ * 头文件2
  */
 
 public class P_SY7_Head1  implements Serializable

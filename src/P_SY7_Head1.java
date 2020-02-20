@@ -44,6 +44,9 @@ public class P_SY7_Head1  implements Serializable
 	public float fLineD;		//	线径	float	4
 
 	public String strFileVer;	//文件版本号，用于读取时的校验
+	public String strFileVer1;	//文件版本号，用于读取时的校验
+
+
 	public P_SY7_Head1()
 	{
 		SetDefault();
